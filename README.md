@@ -65,6 +65,9 @@ To restart Elasticsearch on Linux, run:
 Spring 2016 CSC-322 members:
 * Mira Hall '16, Noah Schlager '16, Ashwin Sivaramakrishnan '16, David Chang '18, Sooji Son '18
 
+Fall 2017 CSC-322 members:
+ * Ying Long '17, Giang Nguyen '17, Marios Tsetikis '17, Zachary Segall '18 and Elizabeth Zak '18
+
 ## License
 
 The MIT License (MIT)
